@@ -31,7 +31,7 @@ Todos los proyectos están disponibles en: [GitHub](https://github.com/Braktarg)
 
 ## 👤 Autor
 
-**Eduardo Troncoso** - Estudiante de Ingeniería Informática
+**Eduardo Troncoso** - Ingeniero Informático, desarrollador de IA
 
 - LinkedIn: [eduardo-tr](https://www.linkedin.com/in/eduardo-tr/)
 - GitHub: [Braktarg](https://github.com/Braktarg)
